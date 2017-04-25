@@ -1,0 +1,6 @@
+framework module Pods_GLPFinance {
+  umbrella header "Pods-GLPFinance-umbrella.h"
+
+  export *
+  module * { export * }
+}
